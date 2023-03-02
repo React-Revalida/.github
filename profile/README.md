@@ -1,4 +1,4 @@
-# Welcome to our Spill Social Media App! 👋
+# Welcome to Spill - our social media app! 👋
 
 <img src="https://github.com/React-Revalida/socmed-app-frontend/blob/development/src/assets/SpillLogo.png" width="350" height="300">
 
