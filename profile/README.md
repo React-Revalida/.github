@@ -4,7 +4,7 @@
 
 ## Spill - Spill your tea to the world ☕
 
-Spill is a lightweight social media application that gives users the opportunity to share and express their thoughts freely and safely within its sphere. With Spill, you can share a tea with other users, take a sip from teas, follow desired users, maybe connect with them and have a coffee break! 
+Spill is a lightweight social media application that gives users the opportunity to share and express their thoughts freely and safely within its sphere. With Spill, you can share a tea with other users, take a sip from teas, follow desired users, maybe connect with them and have some tea time!
 
 _New release: Now supporting Chats! Users following each other can now send messages to each other._
 
